@@ -1,5 +1,5 @@
 test:
-  three: aboba3
+  three: aboba5
 eureka:
   client:
     service-url:
